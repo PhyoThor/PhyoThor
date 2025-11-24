@@ -27,8 +27,8 @@ Issued Jan 4, 2025
 - 🚲 [Divvy Bike Analysis](#) – R + data storytelling
 - 📱 [Telecom churn Analytics](#) – churn insights
 ### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=phyothor&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phyothor&layout=compact&theme=tokyonight)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhyoThor&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PhyoThor&theme=tokyonight)
 ### 🌱 Currently
 - Learning: advanced Machine Learning, Deep Learning and LLM
 ### 📫 Connect
