@@ -35,5 +35,6 @@ Issued Jan 4, 2025
 - 💼 [LinkedIn](https://www.linkedin.com/in/may-pyae-phyo-thaw-a6589496//)
 - ✉️ diazphyo@gmail.com
 ### 🐍 Contribution Snake
-![snake ocean gif](https://github.com/PhyoThor/PhyoThor/blob/output/ocean.gif)
+![Snake animation](https://github.com/PhyoThor/PhyoThor/blob/output/github-snake.svg)
+
 
