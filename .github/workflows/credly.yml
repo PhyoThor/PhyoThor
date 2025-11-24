@@ -1,0 +1,28 @@
+name: Import Credly Certificates
+
+on:
+  schedule:
+    - cron: "0 6 * * MON"   # weekly update (every Monday at 6:00 UTC)
+  workflow_dispatch:
+
+jobs:
+  import_certificates:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Import Credly certificates
+        uses: michaelcontento/credly-import-action@v1
+        with:
+          name: may-pyae-phyo-thaw
+          datafile: data/credly/Badges.json
+          imagedir: data/credly/images
+          skip_image_downloading: 0
+
+      - name: Commit and push badges data
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update Credly certificates"
+          add: "data/credly/**"
