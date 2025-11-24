@@ -5,7 +5,7 @@
 - 🎓 Master's student in IT (AI & Data Analytics)
 - 📡 8+ years in telecom & digital products
 - 📊 Passionate about data, ML, and real-world applications
-- 🌍 From Myanmar, living in Berlin
+- 🌍 From Myanmar, lived in Singapore, Canada and living in Berlin
 
 ### 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -30,24 +30,11 @@ Issued Jan 4, 2025
 - 🚲 [Divvy Bike Analysis](#) – R + data storytelling
 - 📱 [Telecom churn Analytics](#) – churn insights
 ### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PhyoThor&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhyoThor&layout=compact&theme=tokyonight)
 ### 🌱 Currently
-- Learning: advanced SQL & Python for assessments
-- Preparing: Deutsche Bank TDI 2026 & other data roles
+- Learning: advanced Machine Learning, Deep Learning and LLM
 ### 📫 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG/)
-- ✉️ your.email@example.com
-
-### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
-### 🌱 Currently
-- Learning: advanced SQL & Python for assessments
-- Preparing: Deutsche Bank TDI 2026 & other data roles
-
-### 📫 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG/)
-- ✉️ your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/may-pyae-phyo-thaw-a6589496//)
+- ✉️ diazphyo@gmail.com
 
