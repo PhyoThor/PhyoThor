@@ -14,13 +14,15 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+
       - name: Generate snake animation
         uses: Platane/snk@master
         with:
           github_user_name: PhyoThor
-          outputs:
-            gif: dist/snake.gif
-            svg: dist/snake.svg
+          outputs: |
+            dist/snake.gif
+            dist/snake.svg
+
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
