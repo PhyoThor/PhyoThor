@@ -12,18 +12,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake animation
+      - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
           github_user_name: PhyoThor
-          outputs: |
-            dist/snake.gif
-            dist/snake.svg
+          gif_out_path: dist/snake.gif
+          svg_out_path: dist/snake.svg
 
-      - name: Push snake animation to output branch
+      - name: Push Snake Animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
