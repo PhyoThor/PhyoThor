@@ -23,7 +23,7 @@ Issued Jan 12, 2025
 **Microsoft Power BI Data Analyst Professional Certificate**  
 Issued Jan 4, 2025  
 ### 🚀 Featured Projects
-- 📈 [Apple Stock Prediction](#) – ML + sentiment analysis
+- 📈 [Apple Stock Prediction](https://github.com/PhyoThor/Apple_Stock_Price_Prediction) – ML + sentiment analysis
 - 🚲 [Divvy Bike Analysis](#) – R + data storytelling
 - 📱 [Telecom churn Analytics](#) – churn insights
 ### 📈 GitHub Stats
