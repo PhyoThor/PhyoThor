@@ -1,5 +1,5 @@
-# Hi there, I'm Phyo Thaw 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=3000&color=4F46E5&lines=Data+Analytics+Student;AI+%26+Digital+Products;Based+in+Berlin)](https://git.io/typing-svg)
+# Hi there, I'm M.P.Phyo Thaw 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=3000&color=4F46E5&lines=Telecom+Digital+Product+Expert;Data+Analytics;AI+%26+Digital+Products)](https://git.io/typing-svg)
 ### 👩‍💻 About Me
 - 🎓 Master's student in IT (AI & Data Analytics)
 - 📡 8+ years in telecom & digital products
@@ -23,7 +23,7 @@ Issued Jan 12, 2025
 **Microsoft Power BI Data Analyst Professional Certificate**  
 Issued Jan 4, 2025  
 ### 🚀 Featured Projects
-- 📈 [Apple Stock Prediction](#) – ML + sentiment analysis
+- 📈 [Apple Stock Prediction](https://github.com/PhyoThor/Apple_Stock_Price_Prediction) – ML + sentiment analysis
 - 🚲 [Divvy Bike Analysis](#) – R + data storytelling
 - 📱 [Telecom churn Analytics](#) – churn insights
 ### 📈 GitHub Stats
