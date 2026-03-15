@@ -24,8 +24,8 @@ Issued Jan 12, 2025
 Issued Jan 4, 2025  
 ### 🚀 Featured Projects
 - 📈 [Apple Stock Prediction](https://github.com/PhyoThor/Apple_Stock_Price_Prediction) – ML + sentiment analysis
-- 🚲 [Divvy Bike Analysis](#) – R + data storytelling
-- 📱 [Telecom churn Analytics](#) – churn insights
+- 🚢 [Titanic EDA](https://github.com/PhyoThor/Titanic_data_analysis) – EDA + ML
+- 📱 [Telecom churn Analytics](https://www.kaggle.com/code/phyothaw/customer-churn-prediction-dataset-eda) – churn insights
 ### 📈 GitHub Stats
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhyoThor&theme=tokyonight)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PhyoThor&theme=tokyonight)
