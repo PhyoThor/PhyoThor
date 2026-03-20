@@ -3,6 +3,7 @@
 ### 👩‍💻 About Me
 - 🎓 Master's student in IT (AI & Data Analytics)
 - 📡 8+ years in telecom & digital products
+- 🛡️ 2 years in Life Insurances products
 - 📊 Passionate about data, ML, and real-world applications
 - 🌍 From Myanmar, lived in Singapore, Canada and living in Berlin
 ### 🔧 Tech Stack
@@ -13,6 +14,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ### 🏅 Certifications
+[![Google](https://images.credly.com/size/680x680/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png)](https://www.credly.com/earner/earned/badge/f764efe3-01cd-4961-8698-e38e631d6580)
 [![Google](https://img.shields.io/badge/Google-Digital%20Marketing%20%26%20E--commerce-blue?logo=google&logoColor=white)](LINK_HERE)  
 **Google Digital Marketing & E-Commerce Professional Certificate**  
 Issued Feb 23, 2025  
