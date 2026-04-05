@@ -25,10 +25,9 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/6802caa4-1fac-491c-9377-96a509fbd70c/public_url">
-    <img src="https://images.credly.com/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png" width="140"/>
+    <img src="https://images.credly.com/size/680x680/images/0da411a5-24e9-4991-9756-ca5f6073e7af/image.png" width="120"/>
   </a>
   
-<p align="center">
   <a href="https://www.credly.com/badges/007d9ce6-eaf3-4912-a912-561679d20e77/public_url">
     <img src="https://images.credly.com/images/941fa490-a052-46ae-beff-1ac8e55c117f/image.png" width="120"/>
   </a>
