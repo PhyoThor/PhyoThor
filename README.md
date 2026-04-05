@@ -22,14 +22,19 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ---
 ### 🏅 Certifications
+<p align="center">
+  <a href="https://www.credly.com/badges/007d9ce6-eaf3-4912-a912-561679d20e77/public_url">
+    <img src="https://images.credly.com/images/941fa490-a052-46ae-beff-1ac8e55c117f/image.png" width="120"/>
+  </a>
 
-[![IBM Data Science](https://images.credly.com/size/340x340/images/007d9ce6-eaf3-4912-a912-561679d20e77/image.png)](https://www.credly.com/badges/007d9ce6-eaf3-4912-a912-561679d20e77/public_url)
+  <a href="https://www.credly.com/badges/6802caa4-1fac-491c-9377-96a509fbd70c/public_url">
+    <img src="https://images.credly.com/images/88c25fa4-9007-42cc-b9c5-16441a878507/GCC_badge_DA_1000x1000.png" width="120"/>
+  </a>
+</p>
 
-[![Google Data Analytics](https://images.credly.com/size/340x340/images/6802caa4-1fac-491c-9377-96a509fbd70c/image.png)](https://www.credly.com/badges/6802caa4-1fac-491c-9377-96a509fbd70c/public_url)
-
-[![Google Digital Marketing](https://images.credly.com/size/340x340/images/3c52b885-2df0-44e8-a903-7bd73c114898/image.png)](https://www.credly.com/badges/3c52b885-2df0-44e8-a903-7bd73c114898/public_url)
-
-[![Power BI](https://images.credly.com/size/340x340/images/f764efe3-01cd-4961-8698-e38e631d6580/image.png)](https://www.credly.com/badges/f764efe3-01cd-4961-8698-e38e631d6580/public_url)
+### 📜 Additional Certifications
+- [Google Digital Marketing & E-Commerce](https://www.credly.com/badges/3c52b885-2df0-44e8-a903-7bd73c114898/public_url)
+- [Microsoft Power BI Data Analyst](https://www.credly.com/badges/f764efe3-01cd-4961-8698-e38e631d6580/public_url)
 
 ---
 ### 🚀 Featured Projects
