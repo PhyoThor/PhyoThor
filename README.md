@@ -45,7 +45,7 @@
 ### 🌱 Currently
 - Learning: advanced Machine Learning, Deep Learning and LLM
 ### 📫 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/may-pyae-phyo-thaw-a6589496//)
+- 💼 [LinkedIn](https://www.linkedin.com/in/may-pyae-phyo-thaw-a6589496/)
 - ✉️ diazphyo@gmail.com
 ### 🐍 Contribution Snake
 ![Snake animation](https://github.com/PhyoThor/PhyoThor/blob/output/github-snake.svg)
