@@ -22,10 +22,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ---
 ### 🏅 Certifications
-- 🎓 Google Data Analytics Professional Certificate  
-- 🎓 Google Digital Marketing & E-Commerce  
-- 🎓 IBM Data Science Professional Certificate  
-- 🎓 Microsoft Power BI Data Analyst  
+
+[![IBM Data Science](https://images.credly.com/size/340x340/images/007d9ce6-eaf3-4912-a912-561679d20e77/image.png)](https://www.credly.com/badges/007d9ce6-eaf3-4912-a912-561679d20e77/public_url)
+
+[![Google Data Analytics](https://images.credly.com/size/340x340/images/6802caa4-1fac-491c-9377-96a509fbd70c/image.png)](https://www.credly.com/badges/6802caa4-1fac-491c-9377-96a509fbd70c/public_url)
+
+[![Google Digital Marketing](https://images.credly.com/size/340x340/images/3c52b885-2df0-44e8-a903-7bd73c114898/image.png)](https://www.credly.com/badges/3c52b885-2df0-44e8-a903-7bd73c114898/public_url)
+
+[![Power BI](https://images.credly.com/size/340x340/images/f764efe3-01cd-4961-8698-e38e631d6580/image.png)](https://www.credly.com/badges/f764efe3-01cd-4961-8698-e38e631d6580/public_url)
+
 ---
 ### 🚀 Featured Projects
 
@@ -40,13 +45,6 @@
 - 📱 [Telecom Churn Analytics](https://www.kaggle.com/code/phyothaw/customer-churn-prediction-dataset-eda)  
   → Identified churn drivers and built predictive model for retention strategy  
   → Tools: Python, EDA, Machine Learning  
----
-### 🏅 Certifications
-
-- 🎓 [IBM Data Science Professional Certificate](https://www.credly.com/badges/007d9ce6-eaf3-4912-a912-561679d20e77/public_url)  
-- 🎓 [Google Data Analytics Professional Certificate](https://www.credly.com/badges/6802caa4-1fac-491c-9377-96a509fbd70c/public_url)  
-- 🎓 [Google Digital Marketing & E-Commerce](https://www.credly.com/badges/3c52b885-2df0-44e8-a903-7bd73c114898/public_url)  
-- 🎓 [Microsoft Power BI Data Analyst](https://www.credly.com/badges/f764efe3-01cd-4961-8698-e38e631d6580/public_url)
 ---
 ### 📈 GitHub Stats
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhyoThor&theme=tokyonight)
