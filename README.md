@@ -41,6 +41,13 @@
   → Identified churn drivers and built predictive model for retention strategy  
   → Tools: Python, EDA, Machine Learning  
 ---
+### 🏅 Certifications
+
+- 🎓 [IBM Data Science Professional Certificate](https://www.credly.com/badges/007d9ce6-eaf3-4912-a912-561679d20e77/public_url)  
+- 🎓 [Google Data Analytics Professional Certificate](https://www.credly.com/badges/6802caa4-1fac-491c-9377-96a509fbd70c/public_url)  
+- 🎓 [Google Digital Marketing & E-Commerce](https://www.credly.com/badges/3c52b885-2df0-44e8-a903-7bd73c114898/public_url)  
+- 🎓 [Microsoft Power BI Data Analyst](https://www.credly.com/badges/f764efe3-01cd-4961-8698-e38e631d6580/public_url)
+---
 ### 📈 GitHub Stats
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhyoThor&theme=tokyonight)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PhyoThor&theme=tokyonight)
