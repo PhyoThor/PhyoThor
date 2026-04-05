@@ -38,9 +38,7 @@
 </p>
 
 ### 📜 Additional Certifications
-- [Google Digital Marketing & E-Commerce](https://www.credly.com/badges/3c52b885-2df0-44e8-a903-7bd73c114898/public_url)
 - [Microsoft Power BI Data Analyst](https://www.credly.com/badges/f764efe3-01cd-4961-8698-e38e631d6580/public_url)
-
 ---
 ### 🚀 Featured Projects
 
