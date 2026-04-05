@@ -2,8 +2,11 @@ name: Import Credly Certificates
 
 on:
   schedule:
-    - cron: "0 6 * * MON"   # weekly update (every Monday at 6:00 UTC)
+    - cron: "0 6 * * MON"   # every Monday at 06:00 UTC
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   import_certificates:
@@ -11,7 +14,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
 
       - name: Import Credly certificates
         uses: michaelcontento/credly-import-action@v1
@@ -24,5 +32,6 @@ jobs:
       - name: Commit and push badges data
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Update Credly certificates"
+          message: "chore: update Credly certificates"
           add: "data/credly/**"
+          default_author: github_actions
